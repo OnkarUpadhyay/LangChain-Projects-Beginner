@@ -4,3 +4,9 @@ streamlit
 langchain-groq
 streamlit-chat
 python-dotenv
+PyPDF2 
+fpdf 
+sentence-transformers 
+faiss-cpu
+langchain-community
+langchain-huggingface
