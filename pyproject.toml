@@ -10,6 +10,7 @@ dependencies = [
     "langchain>=1.2.14",
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.25",
+    "langchain-experimental>=0.4.1",
     "langchain-groq>=1.1.2",
     "langchain-huggingface>=1.2.1",
     "pypdf2>=3.0.1",
@@ -17,4 +18,5 @@ dependencies = [
     "sentence-transformers>=5.4.0",
     "streamlit>=1.56.0",
     "streamlit-chat>=0.1.1",
+    "tabulate>=0.10.0",
 ]

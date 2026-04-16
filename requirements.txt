@@ -10,3 +10,5 @@ sentence-transformers
 faiss-cpu
 langchain-community
 langchain-huggingface
+langchain_experimental
+tabulate
