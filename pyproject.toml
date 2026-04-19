@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "ddgs>=9.14.0",
     "faiss-cpu>=1.13.2",
     "fpdf>=1.7.2",
     "langchain>=1.2.14",
