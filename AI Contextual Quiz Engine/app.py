@@ -6,7 +6,6 @@ from langchain_core.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-import tempfile
 from dotenv import load_dotenv
 import os
 from pydantic import BaseModel, Field

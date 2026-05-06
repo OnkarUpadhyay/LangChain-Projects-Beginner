@@ -13,3 +13,6 @@ langchain-huggingface
 langchain_experimental
 tabulate
 ddgs
+asyncio
+langchain_chroma
+bs4
