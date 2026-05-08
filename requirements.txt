@@ -14,5 +14,6 @@ langchain_experimental
 tabulate
 ddgs
 asyncio
-langchain_chroma
 bs4
+scikit-learn
+joblib
